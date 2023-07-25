@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I am Hrishabh (Rishav), thanks for visiting my profile.
 
 ## About Me 🧑🏻‍💻
-I am full-time Software Engineer. I have done Bachelors in Computer Science and Engineering. I have worked on various technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microservices etc. 
+I am full-time Software Engineer. I have done Bachelors in Computer Science and Engineering. I have worked on various technologies like Java,  Spring, Springboot, Spring batch, JavaScript, Restful Web Services, Microservices etc. 
 
 
