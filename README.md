@@ -25,11 +25,40 @@ Technical Experience in:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
+[<img align="left" alt="Graphana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />][hrishabh-kumar]
+[hrishabh-kumar]: www.abc.com
+
 -->
 
 
-## Hey there!  <img src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/waving.gif" width="30px"></h2>
+## Hey there! <img src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/waving.gif" width="30px">
 I am Hrishabh (Rishav), thanks for visiting my profile.
 
 ## About Me 🧑🏻‍💻
-I am working as a Software Engineer with 5 years of experience. I have completed my bachelors in Computer Science and Engineering. I have worked on various technologies like Java, Spring, Springboot, Spring batch, JavaScript, Restful Web Services, Microservices etc. 
+I am working as a Software Engineer with 5+ years of experience in IT industry. I have completed my bachelors in Computer Science and Engineering. <!-- I have worked on various technologies like Java, Spring, Springboot, Spring batch, JavaScript, Restful Web Services, Microservices etc. -->
+
+### Languages and Tools:
+
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Oracle" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />
+
+
+</br>
+</br>
+
+### Currently learning:
+<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
+<img align="left" alt="docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Graphana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+
