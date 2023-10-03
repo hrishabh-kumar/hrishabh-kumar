@@ -54,7 +54,7 @@ I am working as a Software Engineer with 5+ years of experience in IT industry. 
 </br>
 </br>
 
-### Currently learning:
+### Currently exploring:
 <img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
