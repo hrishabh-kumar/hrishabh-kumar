@@ -35,7 +35,7 @@ Technical Experience in:
 I am Hrishabh (Rishav), thanks for visiting my profile.
 
 ## About Me 🧑🏻‍💻
-I am working as a Software Engineer with 5+ years of experience in IT industry. I have completed my bachelors in Computer Science and Engineering. <!-- I have worked on various technologies like Java, Spring, Springboot, Spring batch, JavaScript, Restful Web Services, Microservices etc. -->
+I am working as a Software Engineer with 5+ years of experience in IT industry. I have worked on various tools and technologies in the past, and the journey continues 🤩<!-- I have worked on various technologies like Java, Spring, Springboot, Spring batch, JavaScript, Restful Web Services, Microservices etc. -->
 
 ### Languages and Tools:
 
